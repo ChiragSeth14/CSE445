@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+<Hotel>
 
   <Hotel Rating="4.2">
     <Name>Westin</Name>
@@ -43,7 +42,7 @@
     <Name>Marriott New York</Name>
     <Phone>718-848-2552</Phone>
     <Address NearestAirport="John F. Kennedy">
-      <Number>135-25</Number>
+      <Number>135</Number>
       <Street>142nd St</Street>
       <City>Jamaica</City>
       <State>NY</State>
