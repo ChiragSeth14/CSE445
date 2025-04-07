@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Hotel Burbank</Name>
+    <Phone>818-841-4770</Phone>
+    <Address NearestAirport="Hollywood Burbank">
+      <Number>150</Number>
+      <Street>E Angeleno Ave</Street>
+      <City>Burbank</City>
+      <State>CA</State>
+      <Zip>91502</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Holiday Inn</Name>
+    <Phone>305-885-1941</Phone>
+    <Address>
+      <Number>1111</Number>
+      <Street>S Royal Poinciana Blvd</Street>
+      <City>Miami Springs</City>
+      <State>FL</State>
+      <Zip>33166</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Marriott New York</Name>
+    <Phone>718-848-2552</Phone>
+    <Address NearestAirport="John F. Kennedy">
+      <Number>135-25</Number>
+      <Street>142nd St</Street>
+      <City>Jamaica</City>
+      <State>NY</State>
+      <Zip>11436</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Hilton Garden Inn</Name>
+    <Phone>972-233-8000</Phone>
+    <Phone>972-555-0198</Phone>
+    <Address NearestAirport="Dallas Fort-Worth">
+      <Number>4090</Number>
+      <Street>Belt Line Rd</Street>
+      <City>Addison</City>
+      <State>TX</State>
+      <Zip>75001</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hyatt Regency</Name>
+    <Phone>312-565-1234</Phone>
+    <Phone>312-555-0176</Phone>
+    <Address NearestAirport="Chicago O'Hare International">
+      <Number>151</Number>
+      <Street>E Wacker Dr</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>La Quinta Inn</Name>
+    <Address NearestAirport="Seattle-Tacoma International">
+      <Number>2224</Number>
+      <Street>3rd Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98121</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Four Seasons Boston</Name>
+    <Phone>617-338-4400</Phone>
+    <Phone>617-555-0142</Phone>
+    <Address NearestAirport="Logan International">
+      <Number>200</Number>
+      <Street>Boylston St</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02116</Zip>
+  </Hotel>
+
+  <Hotel>
+    <Name>Omni San Francisco</Name>
+    <Name>Omni Hotel</Name>
+    <Phone>415-677-9494</Phone>
+    <Address NearestAirport="San Francisco International">
+      <Number>500</Number>
+      <Street>California St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94104</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Drury Plaza Hotel</Name>
+    <Phone>210-270-7799</Phone>
+    <Address NearestAirport="San Antonio International">
+      <Number>105</Number>
+      <Street>S Saint Mary's St</Street>
+      <City>San Antonio</City>
+      <State>TX</State>
+      <Zip>78205</Zip>
+    </Address>
+  </Hotel>
+
+</Hotel>
