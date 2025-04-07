@@ -63,7 +63,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <!-- <Hotel>
     <Name>Hyatt Regency</Name>
     <Phone>312-565-1234</Phone>
     <Phone>312-555-0176</Phone>
@@ -123,6 +123,6 @@
       <State>TX</State>
       <Zip>78205</Zip>
     </Address>
-  </Hotel>
+  </Hotel> -->
 
 </Hotels>
